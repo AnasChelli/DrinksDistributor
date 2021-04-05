@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrinksDistributor", "DrinksDistributor\DrinksDistributor.csproj", "{903D4481-F1E5-49A3-8281-796B7D25EE5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrinksDistributorTest", "DrinksDistributorTest\DrinksDistributorTest.csproj", "{D5A8B443-4211-476F-98B1-B3B58BA8BF24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903D4481-F1E5-49A3-8281-796B7D25EE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903D4481-F1E5-49A3-8281-796B7D25EE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903D4481-F1E5-49A3-8281-796B7D25EE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903D4481-F1E5-49A3-8281-796B7D25EE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A8B443-4211-476F-98B1-B3B58BA8BF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A8B443-4211-476F-98B1-B3B58BA8BF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A8B443-4211-476F-98B1-B3B58BA8BF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A8B443-4211-476F-98B1-B3B58BA8BF24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2D141B4-6E6E-4DE6-B6B0-DBD0C65A0FBB}
+	EndGlobalSection
+EndGlobal
